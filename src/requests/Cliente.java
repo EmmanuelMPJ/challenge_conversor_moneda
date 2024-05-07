@@ -21,6 +21,7 @@ public class Cliente {
                 .uri(URI.create(url))
                 .build();
     }
+
     public HttpResponse<String> Response() throws IOException, InterruptedException {
         HttpRequest request = requestInit();
         return client.send(request, HttpResponse.BodyHandlers.ofString());
