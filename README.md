@@ -30,7 +30,10 @@ Este programa te permite convertir cantidades de una moneda a otra. Utiliza la A
 [![Screenshot-2024-05-09-011850.png](https://i.postimg.cc/x8RfTnMD/Screenshot-2024-05-09-011850.png)](https://postimg.cc/5QXdscsn)
 - Se muestra el menú con la entrada incorrecta al elegir una opción no permitida y su respectivo mensaje de salida.
 [![Screenshot-2024-05-09-012225.png](https://i.postimg.cc/g2RZm6jf/Screenshot-2024-05-09-012225.png)](https://postimg.cc/Yvr9x013)
--Se muestra el menú al ingresar todo correcto.
+- Se muestra el menú al ingresar todo correcto.
 [![Screenshot-2024-05-09-012500.png](https://i.postimg.cc/rFGjMmmZ/Screenshot-2024-05-09-012500.png)](https://postimg.cc/mtDCST77)
 
 **Nota**: Al convertir correctamente un valor ingresado, el mensaje solo mostrará una cifra decimal para el valor ingresado y 2 para el valor convertido.
+
+# Autor
+[<img src="https://avatars.githubusercontent.com/u/168949963?v=4" width=115><br><sub>Emmanuel Paternina</sub>](https://github.com/EmmanuelMPJ)
