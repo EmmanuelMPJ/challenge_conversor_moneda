@@ -46,7 +46,7 @@ public class Main {
                     String valorConvertir = scanner.nextLine();
                     Matcher matcher = new AnalisisInput(valorConvertir).getMatcher();
                     if (!matcher.matches()){
-                        System.out.println("Ingreso un valor no valido para la moneda");
+                        System.out.println("Ingresó un valor no valido para la moneda");
                         continue;
                     }
                     float valorIngresadoFloat = Float.parseFloat(valorConvertir);
